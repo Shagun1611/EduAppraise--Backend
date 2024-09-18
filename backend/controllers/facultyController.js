@@ -1,4 +1,4 @@
-import Faculty from '../models/faculty.js';  // Use import for ES modules
+import Faculty from '../models/Faculty.js';  // Use import for ES modules
 
 // Create a new faculty
 const createFaculty = async (req, res) => {
